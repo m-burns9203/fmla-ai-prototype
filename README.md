@@ -5,7 +5,7 @@
 
 AI-powered extraction of structured data from FMLA medical certification PDF forms — a proof-of-concept for automated HR compliance processing.
 
-![App screenshot](<img width="1920" height="885" alt="fmla-ai-proto-image" src="https://github.com/user-attachments/assets/35230a5d-0eaa-48bf-8cfa-e36a89978921" />
+(<img width="1920" height="885" alt="fmla-ai-proto-image" src="https://github.com/user-attachments/assets/35230a5d-0eaa-48bf-8cfa-e36a89978921" /> [App screenshot]
 
 )
 
